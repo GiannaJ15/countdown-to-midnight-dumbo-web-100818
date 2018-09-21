@@ -2,6 +2,7 @@
 
 def countdown (int)
   x= int
-  while x
+  while x>0 
+  x-=1 
   
 end
