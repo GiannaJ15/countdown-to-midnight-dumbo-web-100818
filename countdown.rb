@@ -11,7 +11,6 @@ end
 countdown_with_sleep(number)
  while number>0 
    puts "#{number} SECOND(S)!"
-   sleep(2.0)
   number-=1 
 end
 return "HAPPY NEW YEAR!"
